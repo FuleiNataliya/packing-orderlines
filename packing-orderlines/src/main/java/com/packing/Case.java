@@ -3,6 +3,7 @@ package com.packing;
 import java.util.UUID;
 
 public class Case extends ThreeDimensionObject {
+
     private final String id;
 
     public Case(final double sizeX, final double sizeY, final double sizeZ) {
